@@ -1,6 +1,6 @@
 # Lunar buildscripts
 
-This repository contains various scripts I wrote to help with translating Lunar: Silver Star Story for the Saturn.
+These buildscripts ended up going unused in my Lunar translations, but you might find them useful for your own projects.
 
 ## extract-ip.sh
 
